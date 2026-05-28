@@ -1,9 +1,0 @@
-.env
-/tmp
-/log
-/storage
-*.log
-*.pid
-/public/assets
-.bundle/
-/vendor/bundle
